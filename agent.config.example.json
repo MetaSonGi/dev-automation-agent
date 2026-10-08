@@ -1,0 +1,5 @@
+# 개발 잡무 설정 예시 (agent.config.json)
+{
+  "language": "ko",
+  "readme_output": "README.draft.md"
+}

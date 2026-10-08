@@ -1,0 +1,4 @@
+# openai 패키지는 선택 사항입니다.
+# OPENAI_API_KEY 환경변수가 설정되고 이 패키지가 설치되면 LLM 모드가 활성화됩니다.
+# 설치하지 않으면 휴리스틱 템플릿 모드로 동작합니다.
+openai>=1.0.0; python_version >= "3.8"  # optional
