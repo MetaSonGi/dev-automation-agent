@@ -1,4 +1,11 @@
-# 🤖 dev-automation-agent
+# 🤖 개발 자동화 에이전트 | Dev Automation Agent
+
+> 커밋 메시지·README·스탠드업 자동 생성 CLI  
+> CLI that drafts commit messages, READMEs and standups
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+
+---
 
 저장소의 반복 잡무를 자동화하는 Python CLI 도구입니다.
 
